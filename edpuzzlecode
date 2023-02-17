@@ -246,6 +246,7 @@ function openPopup(assignment) {
       <p style="font-size: 12px">Anwser Questions Script does not answer Open-Ended questions.</p>
       <p style="font-size: 12px">Thank you to Ading for this script!</p>
       <input id="skipper" type="button" value="Skip Video" onclick="skip_video();" disabled/>
+      <p style="font-size: 12px">This could be very risky ^^^</p>
       <input id="answers_button" type="button" value="Answer Questions" onclick="answer_questions();" disabled/>
       <div id="speed_container" hidden>
         <label style="font-size: 12px" for="speed_dropdown">Video speed:</label>
